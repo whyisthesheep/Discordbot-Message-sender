@@ -8,6 +8,8 @@ make an application and then make a bot
 go to the oAuth2 tab and tick 'bot'
 now scroll down and tick either 'administrator' or 'send messages' AND 'view channels'
 copy the link and add the bot to your server
+now go to bot and copy the token
+open bot_feed.py with Notepad or your IDE of choise and replace TOKEN GOES HERE with your token
 
 # Use
 run bot_feed.py
